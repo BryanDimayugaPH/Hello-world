@@ -1,2 +1,2 @@
-# Hello-world
-My very First GitHub Contribution
+# hello-world
+My first GitHub Push
